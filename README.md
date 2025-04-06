@@ -5,9 +5,9 @@ This project focuses on building a machine learning model to classify borrowers 
 ---
 
 ## 🔗 Project Links:
-Link Code: https://colab.research.google.com/drive/1cu6pbA_kRzz6Ua-QtmJYgWukRsnfl8MN?usp=sharing
-GitHub Repo (this repo): https://github.com/raonsb/Credit-Risk-Prediction
-Project Explanation Video: https://youtu.be/mr-wN72EaLY
+- Link Code: https://colab.research.google.com/drive/1cu6pbA_kRzz6Ua-QtmJYgWukRsnfl8MN?usp=sharing
+- GitHub Repo (this repo): https://github.com/raonsb/Credit-Risk-Prediction
+- Project Explanation Video: https://youtu.be/mr-wN72EaLY
 
 ---
 
