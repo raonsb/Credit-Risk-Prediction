@@ -19,7 +19,7 @@ This project focuses on building a machine learning model to classify borrowers 
 
 ### 📈 3. Exploratory Data Analysis (EDA)
 - Visualized **categorical features** with bar and pie charts.
-- Analyzed distributions of **numerical features** using histograms and boxplots.
+- Analyzed distributions of **numerical features** using histograms and bar charts.
 - Examined correlations between numerical features via a **correlation heatmap**.
 - Identified temporal trends in the **loan amount** using a line chart.
 
